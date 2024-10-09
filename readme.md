@@ -5,13 +5,12 @@ This repository contains various codes and implementations related to Computer N
 ## Directory Structure
 
 - **socket_programming/**: Contains implementations of socket programming examples.
-- **.gitignore**: Specifies files and directories to ignore in version control.
 - **crc.cpp**: Implementation of Cyclic Redundancy Check.
 - **dns.py**: DNS query implementation in Python.
 - **dns_2.cpp**: Another DNS-related implementation in C++.
 - **gbn.cpp**: Go-Back-N protocol implementation.
-- **lss.cpp**: Least Significant Bit Steganography.
-- **menu_4_cnsl.cpp**: Menu-driven console application for various tasks.
+- **lss.cpp**: Least State Segment.
+- **menu_4_cnsl.cpp**: Menu-driven Go-Back-N and Selective Repeat.
 - **sr.cpp**: Selective Repeat protocol implementation.
 - **subnetting.cpp**: Subnetting calculations and implementations.
 
